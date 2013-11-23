@@ -19,9 +19,6 @@
     "node": ">=0.8"
   },
   "main": "./src/node/traceur.js",
-  "bin": {
-    "traceur": "./traceur"
-  },
   "scripts": {
     "test": "make test"
   },
