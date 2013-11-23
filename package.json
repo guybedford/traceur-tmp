@@ -1,0 +1,7 @@
+{
+  "name": "traceur",
+  "version": "0.0.1",
+  "dependencies": {
+    "commander": ">=1.1"
+  }
+}
